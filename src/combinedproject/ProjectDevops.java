@@ -9,4 +9,13 @@ public class ProjectDevops
 	   System.out.println(a+b);
    }
 }
+class Sub
+{
+	public static void min(String args[])
+	{
+		int a=5;
+		int b=10;
+		System.out.println(a-b);
+	}
+}
 
